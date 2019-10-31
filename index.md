@@ -26,11 +26,16 @@ We would like to use C++ as our target programming language because it has stron
 In this algorithm, we have no idea on the scale of the parallelism before running the program. That means we need to exploit the parallelism during the execution of the program. Hence, the multi-core system is appropriate for this project while the data parallel system, for example, GPU is not a good candidate.
 # Schedule
 Oct. 30 - Nov. 4       Search for the existing implementations of the solver
+
 Nov. 5 - Nov. 11       Implement the sequential solver from scratch
+
 Nov. 12 - Nov. 18     Implement the parallel solver with OpenMP and achieve the highest speedup
+
 Nov. 19 - Nov. 25     Implement the parallel solver with OpenMPI and achieve the highest speedup
+
 Nov. 26 - Dec. 2      Compare the OpenMP and MPI implementation against sequential implementation
-		          Combine both MPI and OpenMP implementation to achieve best performance
+Combine both MPI and OpenMP implementation to achieve best performance
+
 Dec. 3 - Dec. 9        Complete Final Report + Poster + Finalization of Code
 
 # Reference:
