@@ -56,4 +56,5 @@ That corresponds to our results. It is the inherent property of this algorithm (
 
 # Reference:
 [1] https://en.wikipedia.org/wiki/Pac-Man
+
 [2] C. Powley and R. E. Korf, "Single-agent parallel window search," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 13, no. 5, pp. 466-477, May 1991. doi: 10.1109/34.134045
