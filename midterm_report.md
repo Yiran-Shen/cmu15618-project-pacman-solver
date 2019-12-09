@@ -1,3 +1,5 @@
+[back to index](/index)
+
 1. We have updated our project main page up to date with the checkpoint. Here is the link: https://yiran-shen.github.io/cmu15618-project-pacman-solver/
 
 2. We completed the implementation of the sequential solver using iterative deepening search and A* algorithm based on a simulator infrastructure found online. We also tried to parallelize iterations of the search with different depth limit in iterative deepening search and A* search because they are independent. After that we can hardly find any speedup. Then, we analyzed the algorithm and found it the inherent property of two algorithms, which limits the overall speedup. Then we did some research on the improvement of those two algorithms. We found an algorithm called parallel window search[1], which resolves the issue. We now plan to implement this algorithm and attempt to receive the target speedup. Those changes are reflected in the main page of our project.
