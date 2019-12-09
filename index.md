@@ -1,5 +1,6 @@
-[Proposal](/index.md)
-[Midterm report](/midterm_report.md)
+[Proposal](/index.md) | 
+[Midterm report](/midterm_report.md) |
+[Final report](/CMU618Report.pdf)
 
 # Parallel pac-man solver
 A course project for 15618 at Carnegie Mellon University
