@@ -1,3 +1,6 @@
+[Proposal](/index.md)
+[Midterm report](/midterm_report.md)
+
 # Parallel pac-man solver
 A course project for 15618 at Carnegie Mellon University
 
