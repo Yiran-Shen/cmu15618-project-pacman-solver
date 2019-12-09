@@ -1,4 +1,4 @@
-[back to index](/index)
+[back to index](/index.md)
 
 1. We have updated our project main page up to date with the checkpoint. Here is the link: https://yiran-shen.github.io/cmu15618-project-pacman-solver/
 
